@@ -1,5 +1,5 @@
 ### Bem vindo!
-##### Me chamo Martim Rafael Führ, sou dev Front-End
+##### Me chamo Martim Rafael Führ, sou desenvolvedor FrontEnd com 2 anos de Experiência na área. Trabalhei em um renomado ecommerce de varejo e moda, com foco em React.js, Next.js e Typescript.
 <div>
   <a href="https://github.com/Martim-Fuhr">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=martim-fuhr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -20,6 +20,6 @@
   
  <div> 
   <a href="https://instagram.com/martimfuhr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:martim.fuhr@growdev.com.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:martimfuhr@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/martim-fuhr-a10165181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
