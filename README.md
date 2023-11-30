@@ -20,7 +20,7 @@
   
   ##
 <br>
-  Quer trocar uma ideia ou saber mais sobre mim ou minha jornada? Sinta-se a vontade para entrar em contato: ⤵️
+  Gostaria saber mais sobre mim ou minha jornada? Sinta-se a vontade para entrar em contato: ⤵️
 
  <div> 
     <a href="https://instagram.com/martimfuhr" title="instagram" target="_blank">
