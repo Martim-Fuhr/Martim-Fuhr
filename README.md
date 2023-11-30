@@ -1,21 +1,7 @@
-## Olá, Bem vindo! Me chamo Martim e sou Desenvolvedor Frontend! 🖖
+### Olá, Bem vindo! Me chamo Martim e sou Desenvolvedor Frontend! 🖖
 ##### Atuo no Frontend a cerca de 02 anos, com foco em React, Next e TypeScript. Trabalhei em um renomado ecommerce de varejo e moda, e também pouco tempo em uma startup de progração, onde atendiamos os mais diversos clientes.
 
-Quer trocar uma ideia ou saber mais sobre mim ou minha jornada? Sinta-se a vontade para entrar em contato: ⤵️
-
- <div> 
-    <a href="https://instagram.com/martimfuhr" title="instagram" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/martim-fuhr-a10165181/" title="linkedin" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a> 
-   <a href="https://wa.me/+5551995987124" title="WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-   </a>
-</div>
-
-
+<br>
 <div>
   <a href="https://github.com/Martim-Fuhr">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=martim-fuhr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -33,3 +19,17 @@ Quer trocar uma ideia ou saber mais sobre mim ou minha jornada? Sinta-se a vonta
 </div>
   
   ##
+<br>
+  Quer trocar uma ideia ou saber mais sobre mim ou minha jornada? Sinta-se a vontade para entrar em contato: ⤵️
+
+ <div> 
+    <a href="https://instagram.com/martimfuhr" title="instagram" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/martim-fuhr-a10165181/" title="linkedin" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
+   <a href="https://wa.me/+5551995987124" title="WhatsApp" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+   </a>
+</div>
