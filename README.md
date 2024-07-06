@@ -1,5 +1,6 @@
 ### Olá, Bem vindo! Me chamo Martim e sou Desenvolvedor Frontend! 🖖
-##### Atuo no Frontend a cerca de 02 anos, com foco em React, Next e TypeScript. Trabalhei em um renomado ecommerce de varejo e moda, e também pouco tempo em uma startup de progração, onde atendiamos os mais diversos clientes.
+##### Atuo no Frontend a cerca de 03 anos, com foco em React, Next e TypeScript. Mas também quebro um galho com PHP e Node no backend. Trabalhei em um renomado ecommerce de varejo e moda, e também pouco tempo em uma startup de progração, onde atendiamos os mais diversos clientes.
+##### 
 
 <br>
 <div>
